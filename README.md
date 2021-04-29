@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Opioid Deaths Over the Years
 
-You can use the [editor on GitHub](https://github.com/nclu527/SATScoresinCalifornia/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+by Natalie Lu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I gathered this data from [a CORGIS dataset](https://corgis-edu.github.io/corgis/csv/opioids/) about deaths from opioid overdoses in the U.S. It goes into detail about aspects like death rates from certain opioids, death rates among racial groups, and death rates among sexes.
 
-### Markdown
+TODO: Put visualization here
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nclu527/SATScoresinCalifornia/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The visualization above shows the rate of overdose deaths across all opioid drugs, taking in deaths from drugs such as heroin, cocaine, prescription, and synthetic opioids. It separates it into death rates among females and males. It appears that over the years, the rate of overdose deaths has increased, but the death rate among female users has historically been higher than that of males. 
